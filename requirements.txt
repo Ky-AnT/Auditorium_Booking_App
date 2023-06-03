@@ -1,0 +1,7 @@
+tkinter
+pandas==1.5.3
+PyExcelerate==0.10.0
+TKinterModernThemes==1.9.3
+tkmacosx==1.0.5
+xlwings==0.30.7
+
